@@ -8,7 +8,7 @@ Simply run the following commands:
 * `cd $GOPATH/src/github.com/vasrem/gorenameimages`
 * `go install`
 
-##Using it
+## Using it
 
 You just have to put the absolute paths of the folders as flags like the command below:
 
